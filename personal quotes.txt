@@ -1,3 +1,7 @@
 ola kala re agori
 
+<<<<<<< HEAD
 life long and prosper
+=======
+i like blue
+>>>>>>> personal_quotes
