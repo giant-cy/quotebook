@@ -1,7 +1,3 @@
 ola kala re agori
 
-<<<<<<< HEAD
-life long and prosper
-=======
 i like green
->>>>>>> personal_quotes
